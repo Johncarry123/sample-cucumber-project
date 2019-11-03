@@ -1,0 +1,35 @@
+2019-11-01 23:11:205 INFO  HomePage :28 - Logo is displayed on home page
+2019-11-01 23:11:349 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-01 23:11:408 INFO  HomePage :28 - Logo is displayed on home page
+2019-11-01 23:11:616 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-01 23:11:18 INFO  HomePage :28 - Logo is displayed on home page
+2019-11-02 14:11:389 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 14:11:59 INFO  HomePage :37 - Click on Login Link
+2019-11-02 14:11:437 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 14:11:542 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 14:11:713 INFO  LoginPage :40 - Click on login button
+2019-11-02 15:11:557 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 15:11:487 INFO  HomePage :37 - Click on Login Link
+2019-11-02 15:11:279 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 15:11:445 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 15:11:676 INFO  LoginPage :40 - Click on login button
+2019-11-02 15:11:842 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 15:11:63 INFO  HomePage :37 - Click on Login Link
+2019-11-02 15:11:425 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 15:11:520 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 15:11:638 INFO  LoginPage :40 - Click on login button
+2019-11-02 15:11:605 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 15:11:275 INFO  HomePage :37 - Click on Login Link
+2019-11-02 15:11:962 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 15:11:56 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 15:11:147 INFO  LoginPage :40 - Click on login button
+2019-11-02 15:11:209 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 15:11:568 INFO  HomePage :37 - Click on Login Link
+2019-11-02 15:11:914 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 15:11:116 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 15:11:259 INFO  LoginPage :40 - Click on login button
+2019-11-02 15:11:871 INFO  BrowserSelector :22 - Chrome browser launch
+2019-11-02 15:11:835 INFO  HomePage :37 - Click on Login Link
+2019-11-02 15:11:71 INFO  LoginPage :30 - Enter email address to email field
+2019-11-02 15:11:181 INFO  LoginPage :35 - Enter password to password field
+2019-11-02 15:11:292 INFO  LoginPage :40 - Click on login button
